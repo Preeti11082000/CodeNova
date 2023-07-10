@@ -12,7 +12,7 @@ const Home = () => {
     <>
       <div className="home" id="home">
         <main>
-          <h1>TechyStar</h1>
+          <h1>CodeNova</h1>
           <p>Solution to all your problems</p>
         </main>
       </div>
@@ -33,20 +33,7 @@ const Home = () => {
         <div>
           <h1>Who we are?</h1>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis
-            officiis hic illo quos sit commodi, aut magnam odio eligendi? Totam
-            quis officiis fugit sunt dolores nostrum tenetur iusto est odio
-            mollitia. Dolor placeat repellendus officia aspernatur dolorum
-            harum. Dolorem cumque quaerat eius qui deserunt ullam laudantium
-            quia tempore. Dignissimos esse sequi numquam est ipsam nemo,
-            voluptas vel recusandae iste aspernatur qui quasi, commodi, atque
-            ipsa dolores tempore asperiores? Dolores soluta placeat molestiae
-            aperiam, ullam officia fugiat corrupti odio, suscipit ipsum cum vel
-            nemo. Ratione quo tempore fugit quaerat! Facilis beatae impedit
-            similique maxime praesentium sunt unde necessitatibus voluptates
-            ipsa, et, numquam reiciendis eveniet? Aliquid nemo nesciunt placeat,
-            qui fuga quae repellat sunt, non natus, iure ab officia rem ipsa cum
-            sed cumque corporis voluptate quibusdam nostrum quod saepe
+          Welcome to CodeNova, your ultimate destination for all things tech. At CodeNova, we bring you a diverse range of content that delves into the ever-evolving world of technology. Whether you're a tech enthusiast, a professional in the industry, or simply curious about the latest tech trends, our website has you covered. From informative articles and engaging tutorials to product reviews and industry news, Innovexa provides a comprehensive and engaging platform to expand your tech knowledge. Join us on a journey of exploration, innovation, and discovery as we unravel the possibilities of technology and its impact on our lives.
           </p>
         </div>
       </div>
